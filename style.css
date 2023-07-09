@@ -67,3 +67,40 @@ nav {
 
 
 /* header section end */
+main {
+  max-width: 1140px;
+  background-color: rgb(245, 238, 225);
+  margin: 0 auto;
+}
+
+.about-me-title {
+  text-align: center;
+
+}
+
+.about-me {
+  padding: 120px;
+  margin: 120px 0px;
+}
+
+.about-me-text {
+  text-transform: capitalize;
+  font-weight: 800;
+  font-size: 30px;
+}
+
+.div-1 {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.about-me-heading {
+  margin-bottom: 0px;
+}
+
+.about-me-data {
+  margin-top: 0px;
+  font-weight: 600;
+  font-size: 16pxpx;
+}
