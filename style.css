@@ -67,6 +67,8 @@ nav {
 
 
 /* header section end */
+/* about me section started */
+
 main {
   max-width: 1140px;
   background-color: rgb(245, 238, 225);
@@ -97,10 +99,53 @@ main {
 
 .about-me-heading {
   margin-bottom: 0px;
+  font-weight: 300;
 }
 
 .about-me-data {
-  margin-top: 0px;
+  margin-top: 5px;
   font-weight: 600;
-  font-size: 16pxpx;
+  font-size: 16px;
 }
+
+/* about me section end */
+
+/* what i do section started */
+.what-i-do-header {
+  background-color: #fff8f3;
+}
+
+.what-i-do-title {
+  text-align: center;
+}
+
+.what-i-do-details {
+  text-align: center;
+}
+
+.what-i-do-section {
+  padding: 120px;
+  margin: 120px 0px;
+}
+
+.what-i-do-services {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+  /* margin: 0px 40px; */
+}
+
+.services {
+  background-color: rgb(21, 153, 153);
+  /* border: 1px solid red; */
+  margin-left: 15px;
+  width: 200px;
+  /* height: 300px;
+  width: 180px; */
+  text-align: left;
+  padding-left: 15px;
+  padding-top: 10px;
+  border-radius: 2px;
+}
+
+/* what i do section end */
