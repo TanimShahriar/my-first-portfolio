@@ -149,3 +149,43 @@ main {
 }
 
 /* what i do section end */
+
+/* resume section started */
+.resume-section-title {
+  text-align: center;
+}
+
+.education-and-experience {
+  display: flex;
+  gap: 60px;
+  justify-content: space-between;
+}
+
+.resume-header {
+  padding: 40px 120px;
+  margin-top: -100px;
+}
+
+.qualification {
+  text-transform: capitalize;
+}
+
+.institution-name,
+.my-experience-section h6 {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+
+.my-education-section h5,
+.my-experience-section h5 {
+  margin-bottom: 0px;
+}
+
+.my-education-section p,
+.my-experience-section p {
+  font-size: 12px;
+}
+
+/* resume section end */
